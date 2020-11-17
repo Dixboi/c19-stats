@@ -35,7 +35,7 @@ if __name__ == '__main__':
             func.clear_screen()
           elif command[0] == "//glo":
             func.global_()
-          elif command[0] == "hlp":
+          elif command[0] == "//hlp":
             func.instructions()
           else:
             command = " ".join(command)
