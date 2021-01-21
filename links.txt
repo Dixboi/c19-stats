@@ -1,0 +1,8 @@
+
+<!--LINK FOR SPECIFIC STATS--> 
+
+'https://covid19stats.ph/stats/by-country/name'
+
+<!--LINK FOR GLOBAL STAT-->
+
+'https://covid19stats.ph/'

@@ -1,0 +1,6 @@
+
+1. Global Statistic
+
+2. Information for each country
+
+3. Information about a specific country
